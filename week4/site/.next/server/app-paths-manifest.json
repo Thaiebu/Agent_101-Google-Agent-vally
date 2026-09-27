@@ -1,0 +1,6 @@
+{
+  "/api/w4/progress/route": "app/api/w4/progress/route.js",
+  "/api/w4/session/[sid]/route": "app/api/w4/session/[sid]/route.js",
+  "/api/w4/chat/route": "app/api/w4/chat/route.js",
+  "/w4/page": "app/w4/page.js"
+}
